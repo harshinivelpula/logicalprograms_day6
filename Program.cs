@@ -6,6 +6,7 @@
         {
             Console.WriteLine("welcome to logical programs");
             fibonacciseries.displayfibonacciseries();
+            perfectnumber.checkperfectnumber();
         }
     }
 }
