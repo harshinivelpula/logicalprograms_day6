@@ -8,6 +8,7 @@
             fibonacciseries.displayfibonacciseries();
             perfectnumber.checkperfectnumber();
             reversenumber.display();
+            primenumber.displayprimenumber();
         }
     }
 }
